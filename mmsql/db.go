@@ -13,3 +13,7 @@ func VeryNewClient() {
 func VeryVeryNewClient() {
 	fmt.Println("------------------ mmsql Very Very New client")
 }
+
+func VeryVeryVeryNewClient() {
+	fmt.Println("------------------ mmsql Very Very Very New client")
+}
