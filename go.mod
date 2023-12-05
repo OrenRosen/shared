@@ -1,1 +1,1 @@
-module github.com/OrenRosen/shared/foundation
+module github.com/OrenRosen/shared
